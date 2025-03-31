@@ -19,16 +19,12 @@ Code-Viz is a Python-based program that generates **visual representations of fu
 ### 🔧 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/code-viz.git
+   git clone https://github.com/oficialjoseguilherme/code-viz.git
    cd code-viz
    ```
-2. Install dependencies:
+2. Run the program:
    ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the program:
-   ```bash
-   python main.py
+   python code_viz.py
    ```
 
 ### 🤝 Contributions
@@ -55,16 +51,12 @@ Code-Viz é um programa desenvolvido em Python para **gerar representações vis
 ### 🔧 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/code-viz.git
+   git clone https://github.com/oficialjoseguilherme/code-viz.git
    cd code-viz
    ```
-2. Instale as dependências:
+2. Execute o programa:
    ```bash
-   pip install -r requirements.txt
-   ```
-3. Execute o programa:
-   ```bash
-   python main.py
+   python code_viz.py
    ```
 
 ### 🤝 Contribuições
